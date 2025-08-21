@@ -17,7 +17,7 @@
 #include <numeric>
 
 // Correct VNODE-LP header
-#include "vode.h" 
+#include "vnode.h" 
 
 // Boost is still useful for special functions not included in VNODE-LP
 #include <boost/math/special_functions/bessel.hpp>
